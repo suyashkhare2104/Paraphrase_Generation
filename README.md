@@ -11,10 +11,10 @@ This project implements a **Custom Paraphrase Generator (CPG)** using the **T5 m
 
 ## Installation
 
-To get started, clone the repository and install the required dependencies:
+To get started, clone the repository and run the notebook
 
 ```bash
 git clone https://github.com/suyashkhare2104/Paraphrase_Generation.git
 cd Paraphrase_Generation
-pip install -r requirements.txt
 ```
+run ```Paraphrase Generator.ipynb```
