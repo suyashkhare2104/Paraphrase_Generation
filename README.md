@@ -15,6 +15,6 @@ To get started, clone the repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/suyashkhare2104/Paraphrase_Generation.git
-cd custom-paraphrase-generator
+cd Paraphrase_Generation
 pip install -r requirements.txt
 ```
